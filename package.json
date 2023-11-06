@@ -1,0 +1,31 @@
+{
+  "name": "graviton.js",
+  "version": "1.0.0",
+  "description": "Simple and efficient JavaScript library to add a Parallax effect to your proyect easily.",
+  "main": "graviton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariioM/Graviton.js.git"
+  },
+  "keywords": [
+    "parallax",
+    "javascript",
+    "JavaScript",
+    "js",
+    "Parallax",
+    "Parallax-Library",
+    "graviton.js",
+    "web",
+    "front-end",
+    "library"
+  ],
+  "author": "Mario Martínez Vitutia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MariioM/Graviton.js/issues"
+  },
+  "homepage": "https://github.com/MariioM/Graviton.js#readme"
+}
