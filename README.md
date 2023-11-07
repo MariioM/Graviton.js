@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
+[![npm version](https://badge.fury.io/js/graviton.js.svg)](https://badge.fury.io/js/graviton.js)
 # Graviton.js
 Graviton.js is an open-source simple and efficient JavaScript library to add a cool Parallax effect to your projects.
 
