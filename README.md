@@ -19,6 +19,6 @@ If you find bugs, improvements or new ideas, feel free to modify <a href="https:
   <li>Make your changes on the base file (graviton.js).</li>
   <li>Minify your code and substitute "graviton.min.js" file.</li>
   <li>Make a pull request.</li>
-</ol><br>
+</ol>
 <h2>License</h2>
 This project is licensed under the GPU GPLv3 - see the <a href="https://github.com/MariioM/Graviton.js/blob/main/LICENSE">LICENSE</a> file for details.
