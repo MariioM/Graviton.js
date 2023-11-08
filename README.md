@@ -3,7 +3,7 @@
 Graviton.js is an open-source simple and efficient JavaScript front-end library to add a cool Parallax effect to your projects.
 
 <h2>How to add Graviton to your proyect</h2>
-You have 2 ways to add Graviton into your project. <br>
+You have two ways to add Graviton into your project. <br>
 <h4>NPM INSTALL</h4>
 You can install Graviton via npm with:<br>
 <code>npm install graviton.js</code><br>
