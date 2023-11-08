@@ -21,4 +21,4 @@ If you find bugs, improvements or new ideas, feel free to modify <a href="https:
   <li>Make a pull request.</li>
 </ol>
 <h2>License</h2>
-This project is licensed under the GPU GPLv3 - see the <a href="https://github.com/MariioM/Graviton.js/blob/main/LICENSE">LICENSE</a> file for details.
+This project is licensed under the MIT - see the <a href="https://github.com/MariioM/Graviton.js/blob/main/LICENSE">LICENSE</a> file for details.
