@@ -1,6 +1,6 @@
 {
   "name": "graviton.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Graviton.js is an open-source simple and efficient JavaScript front-end library to add a cool Parallax effect to yourprojects.",
   "main": "graviton.min.js",
   "scripts": {
